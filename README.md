@@ -1,2 +1,2 @@
 # marre-webstart
-basic web setup with pug and sass
+This is a basic start template for web development in pug and sass.
